@@ -1,0 +1,52 @@
+.container_table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    height: 30%;
+    width: 35%;
+    border: 3px outset;
+}
+
+.rgi_form {
+    border: 1.7px inset rgb(250, 250, 250);
+    background-color: rgb(255, 255, 157);
+    color: red;
+    padding: 5px;
+    margin: 20 px;
+    font-size: xx-large;
+}
+
+td {
+    background-color: #3ecdff;
+    padding: 3px;
+    border: 1.7px inset white;
+    font-size: large;
+    margin-left: 5px;
+    margin: 20px;
+}
+
+th {
+    border: 1.7px inset rgb(250, 250, 250);
+    background-color: rgb(2, 205, 245);
+    padding: 5px;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+.btm-button {
+    height: 35px;
+    width: 150px;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+
+.btm-row-cell {
+    text-align: center;
+}
+
